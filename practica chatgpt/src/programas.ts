@@ -1,25 +1,3 @@
-// Sección 1: Teoría (20 puntos)
-// Explica la diferencia entre:
-
-// 
-// **** let, const y var.
-
-// let y var: son elementos que pueden cambiar en cualquier parte del codigo.actualmente se recomienda usar let
-// const: es un elemento que siempre sera del mismo valor hasta el final.
-
-
-// **** null y undefined.
-
-// null cuando intencional mente no quieres que se asigne un valor.
-// undefined cuando no asignaste un valor.
-
-
-//**** */ Explica la diferencia entre una Promise y async/await.
-
-// Promise: realiza una accion que puede estar pendiente o completada
-// async: devuelve una promesa
-// await: se utiliza para esperar a que la promesa se resuleva
-
 
 // punto 2
 const arregloNumeros: number[] = [1, 2, 3, 4, 5];
